@@ -1,0 +1,6 @@
+framework module Pods_Vertex {
+  umbrella header "Pods-Vertex-umbrella.h"
+
+  export *
+  module * { export * }
+}
